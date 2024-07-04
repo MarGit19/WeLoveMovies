@@ -1,5 +1,5 @@
 # WeLoveMovies App
-WeLoveMovies is a movie information platform designed to provide users with detailed data about movies, theaters, and reviews. As the backend developer for this startup, your role involves setting up a robust database and implementing specific routes to ensure users can access the required data seamlessly. The backend is built using Node.js and Express, with a database managed by PostgreSQL, providing a reliable and scalable solution for handling movie-related data.
+WeLoveMovies is a movie information platform designed to provide users with detailed data about movies, theaters, and reviews. The backend is built using Node.js and Express, with a database managed by PostgreSQL, providing a reliable and scalable solution for handling movie-related data.
 
 ## Features
 - **Movies API:** Access detailed information about various movies including title, runtime, rating, and description.
